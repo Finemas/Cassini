@@ -15,6 +15,7 @@
 		16AE16E22420D795008AABAE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 16AE16E02420D795008AABAE /* LaunchScreen.storyboard */; };
 		16AE16ED2420DAF6008AABAE /* DemoURLs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16AE16EC2420DAF6008AABAE /* DemoURLs.swift */; };
 		16AE16F52420E23E008AABAE /* oval.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 16AE16F42420E23E008AABAE /* oval.jpg */; };
+		16AE16F72420F14E008AABAE /* CassiniViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16AE16F62420F14E008AABAE /* CassiniViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		16AE16E32420D795008AABAE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		16AE16EC2420DAF6008AABAE /* DemoURLs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DemoURLs.swift; sourceTree = "<group>"; };
 		16AE16F42420E23E008AABAE /* oval.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = oval.jpg; sourceTree = "<group>"; };
+		16AE16F62420F14E008AABAE /* CassiniViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CassiniViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 			children = (
 				16AE16E92420D7A4008AABAE /* Supporting files */,
 				16AE16D92420D792008AABAE /* ImageViewController.swift */,
+				16AE16F62420F14E008AABAE /* CassiniViewController.swift */,
 				16AE16DB2420D792008AABAE /* Main.storyboard */,
 				16AE16E32420D795008AABAE /* Info.plist */,
 				16AE16EC2420DAF6008AABAE /* DemoURLs.swift */,
@@ -156,6 +159,7 @@
 				16AE16ED2420DAF6008AABAE /* DemoURLs.swift in Sources */,
 				16AE16DA2420D792008AABAE /* ImageViewController.swift in Sources */,
 				16AE16D62420D792008AABAE /* AppDelegate.swift in Sources */,
+				16AE16F72420F14E008AABAE /* CassiniViewController.swift in Sources */,
 				16AE16D82420D792008AABAE /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
